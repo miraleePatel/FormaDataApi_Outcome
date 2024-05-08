@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884648846428",
+    "project_id": "editopic-f7786",
+    "storage_bucket": "editopic-f7786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884648846428:android:d6021475a740e1ce493299",
+        "android_client_info": {
+          "package_name": "com.editopic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAmQmre0fyvfdgjFb9P0lrZX22r5NZhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

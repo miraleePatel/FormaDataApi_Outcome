@@ -1,0 +1,4 @@
+keyAlias=upload
+keyPassword=editoPic
+storePassword=editoPic
+storeFile=/Volumes/Extra/Live/photo_editing_app/android/misc/editoPickey.jks
